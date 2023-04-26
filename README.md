@@ -4,6 +4,6 @@ Azure CLI has .msi installer. Installer can be found [here](https://learn.micros
 
 All the scripts which are there in this path location are calling python which is present within the package along with some fixed set of arguments + all the arguments passed via CLI.
 
-Use this project as a workaround by building it and using the output executable to add in the package at a location as mentioned in the [AppxManifest.xml](https://github.com/ravishroshanms/AzureCLIasMSIX/AppxManifest.xml). You can build the project using Visual Studio. Additionally you can use [AppxManifest.xml](https://github.com/ravishroshanms/AzureCLIasMSIX/AppxManifest.xml) to create AppExecutionAlias for the executable generated from the project.
+Use this project as a workaround by building it and using the output executable to add in the package at a location as mentioned in the [AppxManifest.xml](https://github.com/ravishroshanms/AzureCLIasMSIX/blob/main/AppxManifest.xml). You can build the project using Visual Studio. Additionally you can use [AppxManifest.xml](https://github.com/ravishroshanms/AzureCLIasMSIX/blob/main/AppxManifest.xml) to create AppExecutionAlias for the executable generated from the project.
 
 
